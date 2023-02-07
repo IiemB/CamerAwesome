@@ -28,7 +28,7 @@ enum CamerAwesomePermission {
   storage,
   camera,
   location,
-  record_audio,
+  recordAudio,
 }
 
 class PreviewSize {
