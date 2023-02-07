@@ -14,7 +14,8 @@ dependencies:
   # TODO Only needed on iOS for now
   photofilters: 
     git:
-      url: git@github.com:IiemB/photofilters.git
+      url: https://github.com/IiemB/photofilters.git
+      ref: master
   flutter:
     sdk: flutter
   colorfilter_generator: ^0.0.8
